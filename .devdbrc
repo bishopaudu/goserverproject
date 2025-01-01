@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "c:\\Users\\user\\Documents\\learninggo\\go_server\\student.db"
+  }
+]
